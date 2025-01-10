@@ -5,7 +5,9 @@ Yandax Translate API / Google Translate API are all convenient to use, but peopl
 
 
 ## Easy to set up
+Please place the binary alongside with your model folder, **"Name"** must be the same as the picture 
 
+[](https://github.com/willweimike/NLLBTranslateServer/blob/main/assets/Demo.png)
 ## NLLB - No Language Left Behind
 A good model to be used in translation task
 
