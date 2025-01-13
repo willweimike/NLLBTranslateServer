@@ -18,7 +18,8 @@ Everything is now ready 🌟
 - http://127.0.0.1:8080/ : accept GET request, return current server status
 - http://127.0.0.1:8080/help : accept GET request, return help message (available languages for translation)
 - http://127.0.0.1:8080/translate: accept POST request, please contain the fields within the following picture
-<img width="255" alt="image" src="https://github.com/user-attachments/assets/8ff2e29d-19d0-4cbd-b2dd-f4001543d768" />
+
+![](https://github.com/willweimike/NLLBTranslateServer/blob/main/assets/Demo2.png)
 
 ## NLLB - No Language Left Behind
 A good model to be used in translation task
