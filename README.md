@@ -27,5 +27,9 @@ A good model to be used in translation task
 ## Where to get the models?
 Please go to this [link](https://huggingface.co/mikeforai/NLLB-200-Models-Collections) and download, the things that you would need are prepared for you 😃.
 
-## Compile the binary on your own? Packages are ready right here!
-**just download "python-3.11.5-macos11.pkg", and `pip install [wheels within "nllb_server_use_packages"]`!!**
+## Run on your own? Packages are ready right here!
+**Sometimes the binary doesn't work (Not sure why).**
+1. Download "NLLBTranslateServer.zip" from the release section
+2. `pip install [wheels within "nllb_server_use_packages"]`
+3. Put model folder (see above) alongside with app.py, run `python app.py`
+4. You are good to go!
