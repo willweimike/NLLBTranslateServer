@@ -8,7 +8,10 @@ NLLBTranslateServer 100% run on your device, zero tracking
 ## Easy to set up
 Please place the binary alongside with your model folder, **"The File and Folder Name"** must be the same as the picture 
 
-In terminal, type `sudo chmod 777 NTS_darwin` to allow the executable to run and fetch nllb files, and then type `./NTS_darwin`. 
+In terminal
+1. type `sudo chmod 777 path/to/NTS_darwin` to allow the executable to run and fetch nllb files
+2. type `xattr -cr path/to/NTS_darwin` to eliminate warning from Apple Signature
+3. type `./NTS_darwin` to start server
 
 Everything is now ready 🌟
 
