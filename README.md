@@ -1,4 +1,7 @@
 # NLLBTranslateServer - Translate Locally
+> Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed.
+
+![Latest Release](https://img.shields.io/github/v/release/willweimike/NLLBTranslateServer?display_name=tag&label=Latest%20Release&sort=semver) ![Downloads](https://img.shields.io/github/downloads/willweimike/NLLBTranslateServer/total?label=Downloads)
 
 ## Locally, Privately
 Google Translate API are convenient to use, but people are concerned about "Privacy" since user data must be send to the remote to do the translation work
