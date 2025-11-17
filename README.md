@@ -4,6 +4,11 @@
 
 > Because I am a student, I could not afford the fee of Apple Developer, so the binary is not code-signed.
 
+## Live Demo
+
+https://github.com/user-attachments/assets/a7692a84-f7d1-4492-8ae7-b315e7848b98
+
+
 ## Translate Locally, Privately
 Google Translate API are convenient to use, but people may concern about "privacy" since data must be send to the remote to do the translation work
 
